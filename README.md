@@ -1,16 +1,16 @@
 ### Hi there 👋
+# I'm Ashrith Prakash
 
-<!--
-**xxcheckmatexx/xxcheckmatexx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Welcome to my github!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxcheckmatexx&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxcheckmatexx&layout=compact&count_private=true&include_all_commits=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+
+Views:
+<img align="center" src="https://profile-counter.glitch.me/{xxcheckmatexx}/count.svg"/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=samflab&count_private=true&show_icons=true&theme=radical"/>
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samflab&layout=compact&theme=radical&count_private=true"/> -->
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xxcheckmatexx&theme=radical"/>
+<br/>
