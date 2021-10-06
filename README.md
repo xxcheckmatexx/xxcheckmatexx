@@ -10,7 +10,7 @@ Welcome to my github!
 Views:
 <img align="center" src="https://profile-counter.glitch.me/{xxcheckmatexx}/count.svg"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=samflab&count_private=true&show_icons=true&theme=radical"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=xxcheckmatexx&count_private=true&show_icons=true&theme=radical"/>
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samflab&layout=compact&theme=radical&count_private=true"/> -->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xxcheckmatexx&theme=radical"/>
 <br/>
