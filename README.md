@@ -8,5 +8,5 @@ Views:
 <img align="center" src="https://profile-counter.glitch.me/{xxcheckmatexx}/count.svg"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxcheckmatexx&count_private=true&show_icons=true&theme=merko)  
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xxcheckmatexx&theme=radical"/>  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xxcheckmatexx&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD0E0B)](https://git.io/streak-stats)
 <br/>
