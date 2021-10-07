@@ -7,7 +7,7 @@
 Views:
 <img align="center" src="https://profile-counter.glitch.me/{xxcheckmatexx}/count.svg"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxcheckmatexx&count_private=true&show_icons=true&theme=dark)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxcheckmatexx&count_private=true&show_icons=true&theme=merko)  
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xxcheckmatexx&theme=radical"/>
 
 <br/>
