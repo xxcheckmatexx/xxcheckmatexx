@@ -11,6 +11,6 @@
   <summary><b>Github&nbsp;Stats</b></summary>
   <br/>
 
-![Ashrith's GitHub stats](https://github-readme-stats.vercel.app/api?username=@xxcheckmatexx&count_private=true&show_icons=true&theme=merko)  
+[![Ashrith's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xxcheckmatexx)](https://github.com/xxcheckmatexx/github-readme-stats)
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xxcheckmatexx&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD0E0B)
