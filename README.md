@@ -19,4 +19,4 @@ YAML         6 mins          ░░░░░░░░░░░░░░░░░
 <details>
   <summary><b>Github&nbsp;Stats</b></summary>
   <br/>
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xxcheckmatexx&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD0E0B)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xxcheckmatexx&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD0E0B)
