@@ -8,8 +8,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 20 hrs 23 mins
-
 TypeScript   18 hrs 27 mins  ██████████████████████▓░░   90.50 % 
 SCSS         59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
 MDX          19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
