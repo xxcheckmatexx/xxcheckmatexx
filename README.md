@@ -1,8 +1,7 @@
 ### Hi there 👋
 # I'm Ashrith Prakash
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxcheckmatexx&layout=compact&count_private=false&include_all_commits=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxcheckmatexx&layout=compact&count_private=true&include_all_commits=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 📊 &nbsp;**Weekely Development BD**
 
