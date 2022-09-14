@@ -8,7 +8,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+TypeScript   1 hr 45 mins    ██████████████████████░░░   88.30 %
+JSON         8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
+Bash         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+XML          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+GraphQL      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
