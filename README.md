@@ -8,7 +8,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML         2 hrs 45 mins   ████████████████████████▓   98.64 %
+TypeScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
